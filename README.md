@@ -68,7 +68,7 @@ Uso livre para fins de estudo e aprendizado. 🎓
 
 ---
 
-Feito com ☕ e dedicação por [Seu Nome].
+Feito com ☕ e dedicação por Gustavo Cunha.
 
 
 
